@@ -6,7 +6,7 @@
   
 </p>
 <img src="./Assets/chupic.gif" alt="preview" width="50%">
-[@xamaryllis](https://github.com/xamaryllis)
+
 by [xamaryllis](https://github.com/xamaryllis)
 
 <!--
