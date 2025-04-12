@@ -2,9 +2,11 @@
 
 - 🔭 unity-developer in [ortogon.itch.io](https://ortogon.itch.io/)
 
-<p></p>
+<p>
+  
+</p>
 <img src="./Assets/chupic.gif" alt="preview" width="50%">
-<p>by [@xamaryllis](https://github.com/xamaryllis)</p>
+by [@xamaryllis](https://github.com/xamaryllis)
 
 <!--
 **clenverest/clenverest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
