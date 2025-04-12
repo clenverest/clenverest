@@ -6,7 +6,8 @@
   
 </p>
 <img src="./Assets/chupic.gif" alt="preview" width="50%">
-by [@xamaryllis](https://github.com/xamaryllis)
+[@xamaryllis](https://github.com/xamaryllis)
+by [xamaryllis](https://github.com/xamaryllis)
 
 <!--
 **clenverest/clenverest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
